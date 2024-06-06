@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\UA Documents\REU 2024\Python\data-scraper\scraper-env
+set VIRTUAL_ENV=C:\UA Documents\REU 2024\REU\crypto-scraper\scraper-env
 
 if not defined PROMPT set PROMPT=$P$G
 
